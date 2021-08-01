@@ -37,5 +37,13 @@ Lot 3: The p-value is .04 and smaller than our significance level of .05 and we 
 
 
 ## Deliverable 4: Design a study comparing the MechaCar to the Competition 
+One could perform a one-way ANOVA to observe how safety rating compares within a specific type of vehicle among multiple companies. We could test safety rating as a metric. Our null hypothesis and alterative hypothesis are as follows:
+
+Null Hypothesis: the means of all groups are equal
+
+Alternative Hypothesis: at least one of the means is different from all other groups (at least one company has a higher safety rating for the vehicle type than the others)
+
+We could run a one-way ANOVA to test this hypothesis because we will be testing the means of a single dependent variable across a single independent variable with multiple groups(safety rating of a given vehicle type among different companies). We would require the safety ratings of all vehicles from our top competitors to perform this analysis. We could collapse the data to simply list the top competitors, said vehicle type, and their respective safety ratings. 
+
 
 

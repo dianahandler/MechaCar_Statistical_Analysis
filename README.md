@@ -1,4 +1,6 @@
-# Deliverable 1: Linear regression to predict mpg
+The purpose of this challenge was to assess the various parameters of MechaCar data through usage of RStudio. We performed various statistical tests to determine statistical significance of multiple variables.
+
+## Deliverable 1: Linear regression to predict mpg
 
 
 <img width="803" alt="Deliverable1" src="https://user-images.githubusercontent.com/82029390/127777810-30e3e189-b0d0-4585-b622-bbf58061bcac.png">
